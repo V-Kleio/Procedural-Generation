@@ -1,5 +1,5 @@
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=300&color=0:A5B68D,100:C1CFA1&text=Procedural+Animation&fontColor=EDE8DC />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=300&color=0:A5B68D,100:C1CFA1&text=Procedural+Generation&fontColor=EDE8DC />
 </div>
 
 ![Project Status](https://img.shields.io/badge/Project%20Status-Completed-green)
@@ -16,9 +16,9 @@ This repository is written in **Indonesian (Bahasa Indonesia)**. If you wish to 
 
 ## Deskripsi
 
-Repositori ini berisi kumpulan kode yang digunakan dalam eksperimen pembuatan makalah **Aljabar Linear dan Geometri**. Seluruh kode dalam repositori ini dikembangkan menggunakan **Java Processing** sebagai media visualisasi. Hal ini memungkinkan pemahaman konsep-konsep matematika tersebut secara grafis dan interaktif.
+Repositori ini berisi kumpulan kode yang digunakan dalam eksperimen pembuatan makalah **Matematika Diskrit**. Seluruh kode dalam repositori ini dikembangkan menggunakan **Java Processing** sebagai media visualisasi. Hal ini memungkinkan pemahaman konsep-konsep matematika tersebut secara grafis dan interaktif.
 
-Repositori ini berfungsi sebagai arsip dan dokumentasi dari eksperimen yang telah dilakukan. Anda dapat menggunakan repositori ini sebagai referensi atau alat pembelajaran dalam memahami penerapan **Aljabar Linear** dan **Geometri** dalam **animasi prosedural**.
+Repositori ini berfungsi sebagai arsip dan dokumentasi dari eksperimen yang telah dilakukan. Anda dapat menggunakan repositori ini sebagai referensi atau alat pembelajaran dalam memahami penerapan **Matematika Diskrit** dalam **procedural generation**.
 
 ## Instalasi
 
@@ -40,9 +40,9 @@ git clone https://github.com/V-Kleio/Procedural-Animation.git
 ## Kegunaan
 Repositori ini dapat digunakan untuk berbagai tujuan, antara lain:
 
-- Pembelajaran: Gunakan repositori ini untuk memahami konsep-konsep dasar aljabar linear dan geometri yang diterapkan dalam animasi prosedural.
+- Pembelajaran: Gunakan repositori ini untuk memahami konsep-konsep dasar matematika diskrit yang diterapkan dalam PCG (Procedural Content Generation).
 - Referensi: Kode-kode dalam repositori ini dapat digunakan sebagai referensi dalam mempelajari teknik-teknik visualisasi matematika menggunakan Java dan Processing.
-- Eksperimen: Anda dapat melakukan eksperimen dengan memodifikasi kode untuk mengeksplorasi lebih lanjut topik-topik terkait aljabar linear dan geometri.
+- Eksperimen: Anda dapat melakukan eksperimen dengan memodifikasi kode untuk mengeksplorasi lebih lanjut topik-topik terkait.
 
 ## Kontribusi
 Repositori ini adalah hasil karya pribadi saya, termasuk seluruh kode dan catatan yang ada. Jika Anda menemukan kesalahan atau memiliki saran perbaikan, saya sangat menghargai setiap masukan untuk meningkatkan kualitas repositori ini.
